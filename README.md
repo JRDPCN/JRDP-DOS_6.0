@@ -12,6 +12,7 @@ that can be installed on Debian-like linux distributions with:
 sudo apt install nasm make mkisofs
 
 To use on Qemu:
+
 ![Screenshot_2024-01-04_16-33-44](https://github.com/JRDPCN/JRDP-DOS_6.0/assets/136267216/ee64bdf8-2117-48b7-b23d-199f9c2b31d6)
 
 Or using VirtualBox:
